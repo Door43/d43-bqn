@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bqn:home|Door43 (bqn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bqn|d43-bqn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bqn/archive/master.zip|d43-bqn.zip]]
+
+**Recent Changes**
+{{changes>ns = bqn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bqn|Ethnologue data]]
+
